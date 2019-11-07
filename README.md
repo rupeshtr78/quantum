@@ -3,7 +3,7 @@
 - Classical computers are just dealing with simple states of 0 and 1. 
 - **Quantum computers** on the other hand are working on **qubits** in quantum states and not simple 0s and 1s. 
 -  In quantum computing, a qubit or quantum bit is the basic unit of quantum information.
-- The quantum state might be an electron in **superposition** between 1 and 0 .This makes it too fragile to be sent anywhere.
+- The quantum state might be an electron in **superposition** between 1 and 0 .This makes it too fragile to be sent anywhere.A crude example of is the state when a coin is tossed up.While up in air it has equal probability of being heads or tails.
 - Usually denoted as  ![{\displaystyle |0\rangle ={\bigl [}{\begin{smallmatrix}1\\0\end{smallmatrix}}{\bigr ]}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/279f5336e8dcc639125e7dda2410319b81c9bf94) and ![{\displaystyle |1\rangle ={\bigl [}{\begin{smallmatrix}0\\1\end{smallmatrix}}{\bigr ]}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/e788c1d112bf1312c0a7d6416782b66eecb0788b)   pronounced "ket 0" and "ket 1" .
 - Additionally, the[ no-cloning-theorem](https://en.wikipedia.org/wiki/No-cloning_theorem) states that it is impossible to create an identical copy of an unknown quantum state because the **quantum state is collapsed when measured**, and thus the quantum state is destroyed.
 -  There are two possible outcomes for the measurement of a qubit— value "0" and "1", like a bit or binary digit.  
